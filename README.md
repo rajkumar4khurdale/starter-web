@@ -18,3 +18,7 @@ This is simple web project deployment can be done on any server
 2020 GIt training copyright
 
 Sample website with plenty of files for demos
+
+## How to Contribute
+
+Please fork this repository and then issue Pull requests for review.
