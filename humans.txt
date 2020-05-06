@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rajkumar Khurdale rdkhurdale@gmail.com rajdkhurdale
 
 # THANKS
 
