@@ -17,7 +17,7 @@ This is simple web project deployment can be done on any server
 
 
 ### Copyright
-2020 GIt training copyright
+2020 GIt training copyright. All rights reserved.
 
 Sample website with plenty of files for demos
 
